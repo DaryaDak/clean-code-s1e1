@@ -155,15 +155,18 @@
 }
 
 /* Edit Task */
-.li .input-text {
+.li 
+.input-text {
   display: none;
 }
 
-.edit-mode .input-text[type=text] {
+.edit-mode 
+.input-text[type=text] {
   display: inline-block;
   width: 224px;
 }
 
-.edit-mode .task {
+.edit-mode 
+.task {
   display: none;
 }
